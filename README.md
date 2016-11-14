@@ -1,6 +1,6 @@
 # K-means-compare
 
-Compare the old version with SKlearn k-means
+Compare the old version with SKlearn K-means
 
 This project applies the KMeans algorithm by importing SKlearn. 
 Data has been clustered from iris. Three results have been gotten here, of which two clusters were gotten by KMeans algorithm, one of them is made to perform worse purposely by setting algorithm parameter.
